@@ -1,7 +1,6 @@
 # bmlt-enabled.github.io
 bmlt-enabled docs repo
 
-maybe end up using a jekyll theme but this is meant to just link to all the code doc pages
 
 [BMLT Root Server](https://bmlt-enabled.github.io/bmlt-root-server/)
 
