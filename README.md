@@ -6,7 +6,7 @@ bmlt-enabled docs repo
 
 [BMLT WordPress Satellite](https://bmlt-enabled.github.io/bmlt-wordpress-satellite-plugin/)
 
-[yap](https://github.com/bmlt-enabled/yap/wiki)
+[yap](https://yap.bmlt.app/)
 
 [BMLT Basic Standalone Satellite](https://bmlt-enabled.github.io/bmlt-basic/)
 
